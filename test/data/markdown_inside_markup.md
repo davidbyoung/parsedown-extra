@@ -30,3 +30,17 @@ _markdown_
 <div markdown="0">
 _no markdown_
 </div>
+
+---
+
+<div markdown="1">
+> Foo
+</div>
+
+---
+
+<div markdown="1">
+```
+a->b < c
+```
+</div>
